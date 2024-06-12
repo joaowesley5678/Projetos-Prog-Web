@@ -1,0 +1,63 @@
+p {
+    font-size: 30px;
+}
+form {
+    
+    margin: 0 auto;
+    width: 30%;
+    
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#survey-form {
+    background-color: rgba(0, 0, 0, 0.253);
+}
+div{
+    margin: 10px;
+}
+body {
+    min-height: 100%;
+    font-size:x-large;
+    text-align: center;
+    background-image: url("https://images2.alphacoders.com/796/thumb-1920-796747.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+fieldset { 
+    border:1px solid lightgray;
+    margin: 10px;
+    border-radius: 15px;
+}
+legend {
+    font-weight: 700;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+label{
+    color: white;
+}
+legend{
+    color: white;
+}
+.label{
+    text-align: right;
+    width: 35%;
+}
+
+input{
+    width: 100%;
+}
+input[type="submit"]{
+    width: 50%;
+}
+.flex{
+    display: flex;
+}
